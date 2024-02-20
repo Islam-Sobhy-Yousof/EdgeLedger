@@ -27,5 +27,5 @@ Each section is styled using CSS Flexbox to create a responsive and visually app
 To run this project locally, simply clone the repository and open the `index.html` file in your web browser.
 
 ```bash
-git clone https://github.com/yourusername/EdgeLedger.git
+git clone https://github.com/Islam-Sobhy-Yousof/EdgeLedger.git
 cd EdgeLedger
